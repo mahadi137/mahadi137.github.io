@@ -104,7 +104,14 @@ hr {
 .offer,
 .process {
   margin: 20px 0 auto;
-  width: 50%;
+}
+
+.offer {
+  width: 45%;
+}
+
+.process {
+  width: 55%;
 }
 
 .offer h3,
